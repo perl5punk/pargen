@@ -1,8 +1,8 @@
 {
   "name": "pargen",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Generates random parts with attributes",
-  "keywords": ["part","generator","technobabble"],
+  "keywords": ["parts","generator","technobabble","nonsense"],
   "main": "index.js",
   "scripts": {
     "test": "mocha test"
